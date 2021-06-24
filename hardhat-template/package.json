@@ -14,6 +14,7 @@
     "deploy:local": "hardhat run scripts/sample-script.js --network localhost"
   },
   "dependencies": {
+    "dotenv": "10.0.0",
     "hardhat": "2.3.0"
   },
   "devDependencies": {
